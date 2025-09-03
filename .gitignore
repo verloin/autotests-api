@@ -1,0 +1,39 @@
+# Виртуальные окружения
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# PyInstaller
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи и данные
+*.log
+*.sqlite3
+*.db
+
+# Операционные системы
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Пакеты Python
+*.egg
+*.egg-info/
